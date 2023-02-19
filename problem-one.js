@@ -16,14 +16,5 @@ const add = (numOne,numTwo=5)=>numOne+numTwo;
 // console.log(add(2));
 // problem one in three
 
-// const arroFctn=preams=>{
-//     let sum= 0;
-//     for(const peram of preams){
-//         sum=sum+(Math.pow(peram,2));
-//     }
-//     console.log(sum);
 
-// }
-// const numbers = [2,3]
-// arroFctn(numbers);
 
